@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import { BRAND_B_ACCENT } from './Navbar';
+import { BRAND_B_ACCENT } from './tokens';
 
 export const styles = StyleSheet.create({
   bar: {
