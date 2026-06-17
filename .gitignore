@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Turborepo
+.turbo/
+
+# Build output
+dist/
+
+# Expo / native
+.expo/
+**/ios/
+**/android/
+*.orig.*
+web-build/
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Env
+.env*.local
+
+# OS / editor
+.DS_Store
+*.pem
+.idea/
+.claude/settings.local.json

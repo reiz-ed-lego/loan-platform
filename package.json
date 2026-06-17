@@ -1,0 +1,14 @@
+{
+  "name": "loan-platform",
+  "private": true,
+  "packageManager": "pnpm@11.7.0",
+  "scripts": {
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "type-check": "turbo run type-check"
+  },
+  "devDependencies": {
+    "turbo": "latest",
+    "typescript": "^5.4.0"
+  }
+}
